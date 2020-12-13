@@ -121,4 +121,4 @@ async def coinflip(ctx):
     await ctx.send(randcoin)
 
 
-client.run('NjQzMTc3NDMzMzk0MzE1MzYz.XchrqQ.PPYQmSZdf0daJwdtjJp5hGg88mw')
+client.run('os.environ['DISCORD_TOKEN']')
